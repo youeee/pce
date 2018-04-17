@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PriceCalculator", "PriceCalculator\PriceCalculator.csproj", "{DF0EF8ED-1973-43CF-8A1C-CB122B477272}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PriceCalculatorTests", "PriceCalculatorTests\PriceCalculatorTests.csproj", "{13B8EADB-4C73-4041-92A6-F68361BDA803}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{869B92CF-D8BC-4A0F-B3A5-414F2A717269}"
+	ProjectSection(SolutionItems) = preProject
+		readme.txt = readme.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF0EF8ED-1973-43CF-8A1C-CB122B477272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF0EF8ED-1973-43CF-8A1C-CB122B477272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF0EF8ED-1973-43CF-8A1C-CB122B477272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF0EF8ED-1973-43CF-8A1C-CB122B477272}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13B8EADB-4C73-4041-92A6-F68361BDA803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13B8EADB-4C73-4041-92A6-F68361BDA803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13B8EADB-4C73-4041-92A6-F68361BDA803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13B8EADB-4C73-4041-92A6-F68361BDA803}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15FD281C-693E-4937-ABCC-1B62AC0FD288}
+	EndGlobalSection
+EndGlobal
